@@ -1,8 +1,8 @@
-# Team Fortress 2 Configuration Files
+# Team Fortress 2 Configuration Files (Development Build)
 *My Team Fortress 2 custom configuration files.*
 
 ## Installation
-Click [Here](https://github.com/JAH94/tf2-config/releases/latest) for the latest release -> `Source code (zip)`.  
+Click [Here](https://github.com/JAH94/tf2-config/archive/refs/heads/dev.zip) for the latest release of my Dev build.  
 Extract the ZIP file and Copy and Paste the folders contents into `tf\custom`, found in the `Team Fortress 2` folder.  
 Inside `tf\custom` should be the file `base_configuration.vpk` and the folder `user_configuration`.
 
